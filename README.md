@@ -1,5 +1,6 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+Class Content Used in the Game!
 
-DO NOT LEAVE IT LIKE THIS!!!
+LevelLoader - for placing the train tracks and poles
+LowScores - for the list of minimum time scores
+Properties - for other game objects to call the timer
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
